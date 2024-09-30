@@ -1,0 +1,16 @@
+{"books": [
+    {
+        "readingStatus": false,
+        "note": "",
+        "genre": ["1"],
+        "rating": 0,
+        "title": "1"
+    },
+    {
+        "readingStatus": true,
+        "note": "",
+        "genre": ["2"],
+        "rating": 0,
+        "title": "2"
+    }
+]}

@@ -1,0 +1,72 @@
+{"books": [
+    {
+        "readingStatus": true,
+        "note": "",
+        "genre": ["a"],
+        "rating": 0,
+        "title": "a"
+    },
+    {
+        "readingStatus": true,
+        "note": "bbb",
+        "genre": ["b"],
+        "rating": 0,
+        "title": "b"
+    },
+    {
+        "readingStatus": true,
+        "note": "",
+        "genre": ["c"],
+        "rating": 3,
+        "title": "c"
+    },
+    {
+        "readingStatus": true,
+        "note": "",
+        "genre": ["d"],
+        "rating": 0,
+        "title": "d"
+    },
+    {
+        "readingStatus": true,
+        "note": "",
+        "genre": ["d"],
+        "rating": 0,
+        "title": "d"
+    },
+    {
+        "readingStatus": false,
+        "note": "",
+        "genre": ["e"],
+        "rating": 0,
+        "title": "e"
+    },
+    {
+        "readingStatus": false,
+        "note": "",
+        "genre": ["f"],
+        "rating": 0,
+        "title": "f"
+    },
+    {
+        "readingStatus": false,
+        "note": "",
+        "genre": ["er"],
+        "rating": 0,
+        "title": "er"
+    },
+    {
+        "readingStatus": false,
+        "note": "",
+        "genre": ["af"],
+        "rating": 0,
+        "title": "af"
+    },
+    {
+        "readingStatus": true,
+        "note": "",
+        "genre": ["hh"],
+        "rating": 0,
+        "title": "hh"
+    }
+]}
